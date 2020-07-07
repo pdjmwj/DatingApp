@@ -1,0 +1,5 @@
+D:\Projects\Training\Angular_NETCore\DatingApp\datingapp.spa\obj\Debug\netcoreapp3.1\DatingApp.SPA.csprojAssemblyReference.cache
+D:\Projects\Training\Angular_NETCore\DatingApp\datingapp.spa\obj\Debug\netcoreapp3.1\DatingApp.SPA.AssemblyInfoInputs.cache
+D:\Projects\Training\Angular_NETCore\DatingApp\datingapp.spa\obj\Debug\netcoreapp3.1\DatingApp.SPA.AssemblyInfo.cs
+D:\Projects\Training\Angular_NETCore\DatingApp\datingapp.spa\obj\Debug\netcoreapp3.1\DatingApp.SPA.csproj.CoreCompileInputs.cache
+D:\Projects\Training\Angular_NETCore\DatingApp\datingapp.spa\obj\Debug\netcoreapp3.1\DatingApp.SPA.MvcApplicationPartsAssemblyInfo.cache
